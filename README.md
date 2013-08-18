@@ -5,6 +5,8 @@ Fvd (Font Variant Description) is "a way to unambiguously, compactly
 and clearly describe a set of @font-face properties."  KtwFvd is a
 PHP port of the [Typekit Fvd](https://github.com/typekit/fvd) library.
 
+[![Build Status](https://travis-ci.org/kevintweber/KtwFvd.png?branch=master)](https://travis-ci.org/kevintweber/KtwFvd)
+
 ## Documentation
 
 This little library offers three static functions for your enjoyment:
