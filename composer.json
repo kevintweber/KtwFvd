@@ -1,0 +1,22 @@
+{
+    "name": "kevintweber/ktw-fvd",
+    "description": "PHP port of Typekit/fvd",
+    "keywords": ["font", "fvd"],
+    "homepage": "https://github.com/kevintweber/KtwFvd",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Weber",
+            "email": "kevintweber@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { 
+            "kevintweber\\KtwFvd": ""
+        }
+    },
+    "target-dir": "kevintweber/KtwFvd"
+}
